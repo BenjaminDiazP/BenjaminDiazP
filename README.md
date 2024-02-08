@@ -17,7 +17,7 @@
 <br>
 
 - Self-taught Front-end and Backend Developer😎
-- Currently pursuing a degree in Software Development Engineering👨‍💻
+- Currently pursuing a degree in Software Development Engineering in Mexico
 - Currently open to an internship or job opportunity💪
 - Curriculum [link](https://www.0xabdulkhalid.ml)
 
