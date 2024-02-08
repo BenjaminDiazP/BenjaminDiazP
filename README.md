@@ -16,9 +16,9 @@
 
 <br>
 
-- Self-taught Front-end and Backend Developer
-- Currently pursuing a degree in Software Development Engineering
-- Currently open to an internship or job opportunity
+- Self-taught Front-end and Backend Developer😎
+- Currently pursuing a degree in Software Development Engineering👨‍💻
+- Currently open to an internship or job opportunity💪
 - Curriculum [link](https://www.0xabdulkhalid.ml)
 
 
