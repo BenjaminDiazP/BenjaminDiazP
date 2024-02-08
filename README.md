@@ -1,16 +1,10 @@
 
 <h1 align="center"><b>Hi , I'm Benjamin Diaz </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="text-align: center;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt="Typing SVG" />
-    </a>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E431&random=false&width=435&lines=Software+development+student;Develop+Front+and+back;I+like+to+learn+new+things..." alt="Typing SVG" />
-    </a>
-  </div>
-</div>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg" alt="Typing SVG" /></a><img </a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7E431&random=false&width=435&lines=Software+development+student;Develop+Front+and+back;I+like+to+learn+new+things..." alt="Typing SVG" /></a>
+</p>
 
 
 
