@@ -34,7 +34,7 @@
   
   [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 <br>   
-    <br><br>
+<br>
 - **Front-End Development**:
 [![My Skills](https://skillicons.dev/icons?i=html5,css,js)](https://skillicons.dev)
 
