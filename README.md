@@ -40,9 +40,11 @@
    [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
   
 <br>
+
 - **Cloud Hosting**:
      [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 <br>
+
 
 - **Softwares and Tools**:
 
