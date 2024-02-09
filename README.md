@@ -49,7 +49,7 @@
 
 - **Softwares and Tools**:
 
-    [![My Skills](https://skillicons.dev/icons?i=react,github,git,idea,kotlin,nodejs,postman,react,spring,selenium,solidity,vite,vscode,wordpress)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,github,git,idea,kotlin,nodejs,postman,react,spring,selenium,solidity,vite,vscode,wordpress,androidstudio,arduino,bootstrap)](https://skillicons.dev)
 
 <br>
 
