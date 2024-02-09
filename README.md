@@ -32,7 +32,7 @@
 
 - **Languages**:
   
-  [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=java,mysql)](https://skillicons.dev)
 <br>
 
 - **Front-End Development**:
