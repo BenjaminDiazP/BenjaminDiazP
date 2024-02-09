@@ -49,14 +49,13 @@
 
 - **Softwares and Tools**:
 
-    [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+    [![My Skills](https://skillicons.dev/icons?i=react,github,git,idea,kotlin,nodejs,postman,react,spring,selenium,solidity,vite,vscode,wordpress)](https://skillicons.dev)
 
 <br>
 
 - **Extras**:
 
-    ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
-    ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+   
 
 
 </p>
