@@ -41,7 +41,7 @@
   
 <br>
 - **Cloud Hosting**:
-    
+     [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 <br>
 
 - **Softwares and Tools**:
