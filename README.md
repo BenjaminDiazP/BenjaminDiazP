@@ -36,8 +36,8 @@
 <br>
 
 - **Front-End Development**:
+  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-
 <br>
 
 - **Cloud Hosting**:
