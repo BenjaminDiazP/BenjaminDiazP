@@ -19,7 +19,7 @@
 - Self-taught Front-end and Backend Developer😎
 - Currently pursuing a degree in Software Development Engineering in Mexico
 - Currently open to an internship or job opportunity💪
-- CV [link]([https://myphotosssss.my.canva.site/cvbenjamindiaz](https://myphotosssss.my.canva.site/carlos-diaz-web-development))
+- CV [link](https://myphotosssss.my.canva.site/carlos-diaz-web-development)
 
 
 <br><br>
